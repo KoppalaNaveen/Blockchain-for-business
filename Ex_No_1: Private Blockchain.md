@@ -128,8 +128,8 @@ authrpc.port 8546 --networkid { NETWORK_ID } --unlock { ADDRESS_NODE2 } --passwo
 pragma solidity ^0.8.19;
 
 /*
- * NAME: Muhammad Afshan A
- * REG NO: 212223100035
+ * NAME: Koppala Naveen
+ * REG NO: 212223100023
  * DEPARTMENT: CSE (CYBER SECURITY)
 */
 
